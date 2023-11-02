@@ -1,4 +1,6 @@
-![Giphy GIF](https://media.giphy.com/media/jFbbjKqdIZvgkTv9Qi/giphy.gif){width=480}
+<div align="center">
+  <img src="https://media.giphy.com/media/jFbbjKqdIZvgkTv9Qi/giphy.gif" alt="Giphy GIF" width="480" />
+</div>
 
 
 # Welcome to My Tech Journey! 🚀
