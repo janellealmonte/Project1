@@ -1,7 +1,4 @@
-<!-- Welcome Message -->
-<p align="center">
-  <img src="https://your-image-url-here.com/your-image.jpg" alt="Welcome to My GitHub Repository" width="300">
-</p>
+![Giphy GIF](https://media.giphy.com/media/jFbbjKqdIZvgkTv9Qi/giphy.gif)
 
 # Welcome to My Tech Journey! 🚀
 
