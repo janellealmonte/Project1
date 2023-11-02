@@ -1,4 +1,5 @@
-![Giphy GIF](https://media.giphy.com/media/jFbbjKqdIZvgkTv9Qi/giphy.gif)
+![Giphy GIF](https://media.giphy.com/media/jFbbjKqdIZvgkTv9Qi/giphy.gif){width=480}
+
 
 # Welcome to My Tech Journey! 🚀
 
