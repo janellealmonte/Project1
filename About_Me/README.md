@@ -15,7 +15,9 @@ My technical expertise spans various areas, including technical support, project
 
 Outside of my professional pursuits, I have a deep passion for travel and have explored 13 countries so far. I enjoy trying new foods from different cuisines and experiencing different cultures. In my leisure time, you'll find me watching crime shows, thrillers, and mind-bending series. I'm a fur mom and share my home with a pet hamster. I also have 4 dogs, and 1 cat back in the Philippines and my dream is to bring them all to Canada.
 
-![Picture of my pets to make you smile](https://github.com/janellealmonte/TechVoyage/blob/dcb6b378696c7aa13af1eb34e14f71c9afad537d/About_Me/images/369041130_308821378599899_1505753270755922173_n.jpg)1~
+See pictures of my pets to make you smile: 
+
+![Picture of my pets to make you smile](https://github.com/janellealmonte/TechVoyage/blob/dcb6b378696c7aa13af1eb34e14f71c9afad537d/About_Me/images/369041130_308821378599899_1505753270755922173_n.jpg)
 
 ## Get in Touch
 
