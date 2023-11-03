@@ -41,11 +41,11 @@
                     and I'm eagerly seeking opportunities to apply my expertise in the IT landscape.</p>
 
                     <div class="tab-titles">
-                        <p class="tab-links active-link">Skills</p>
-                        <p class="tab-links">Experience</p>
-                        <p class="tab-links">Education</p>
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
                     </div>
-                    <div class="tab-contents">
+                    <div class="tab-contents active-tab" id="skills">
                         <ul>
                             <li><span>CRM (SalesForce, ServiceNow)</span><br>Proficient in customer relationship management systems.</li>
                             <li><span>Splunk</span><br>Skilled in Splunk for data analysis and visualization.</li>
@@ -57,10 +57,45 @@
                             <li><span>Microsoft Server Administration</span><br>Experience in administering Microsoft servers.</li>
                         </ul>
                     </div>
+
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>May 2023 - Present </span><br>International Student Transition Coordinator at Seneca Polytechnic</li>
+                            <li><span>Feb 2022 - Present </span><br>Emergency Response Agent at VHA Home Healthcare</li>
+                            <li><span>Nov 2021 - April 2023</span><br>Student Ambassador/Lead Mentor at Seneca Polytechnic</li>
+                            <li><span>Sept 2019 - April 2021</span><br>Strategic Client Service Representative at Casto Travel Philippines</li>
+                            <li><span>Jan 2016 - Mar 2019</span><br>Client Integration Services Coordinator at Carlson Wagonlit Travel</li>
+                            <li><span>Apr 2014 - Dec 2015</span><br>Consultant - Technical Service Center at Carlson Wagonlit Travel</li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>May 2021 - Apr 2023 </span><br>Computer Systems Technician Diploma - Seneca Polytechnic</li>
+                            <li><span>June 2007 - Apr 2011 </span><br>Bachelor of Arts in Mass Communication - Far Eastern University</li>
+                        </ul>
+                    </div>
         </div>
     </div>
 </div>
 
+<script>
+
+    var tablinks = document.getElementsByClassName("tab-links");
+    var tabcontents = document.getElementsByClassName("tab-contents");
+    
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classList.remove("active-link");
+        }
+        for(tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab");
+        }
+        event.currentTarget.classList.add("active-link");
+        document.getElementById(tabname).classList.add("active-tab");
+    }
+
+</script>
 
 </body>
 </html>
