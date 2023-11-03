@@ -26,5 +26,5 @@ Again if you'd like to connect or collaborate, please don't hesitate to reach ou
 -  Email: janelle.almonte@me.com
 -  LinkedIn: [www.linkedin.com/in/jalmonte0321](www.linkedin.com/in/jalmonte0321)
 
-I look forward to networking, sharing insights, and exploring opportunities in both the tech industry and beyond. Let's connect and make meaningful contributions together!
+I look forward to networking, sharing insights, and exploring opportunities in the tech industry and beyond. Let's connect and make meaningful contributions together!
 
