@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Janelle Almonte. With over a decade of experience specializing in technical support and project management.
+Hello, I'm Janelle Almonte. I have over a decade of experience specializing in technical support and project management.
 
 ## Career Transition
 
