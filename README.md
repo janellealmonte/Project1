@@ -16,7 +16,9 @@ Hello, tech enthusiasts and fellow explorers! Thank you for visiting my reposito
 To get in touch and explore potential collaborations, you can reach me via:
 
 - 📧 Email: janelle.almonte@me.com
-- 🌐 Connect on LinkedIn: [www.linkedin.com/in/jalmonte0321](www.linkedin.com/in/jalmonte0321)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Janelle%20Marie%20A.-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jalmonte0321/)
+
+
 
 I'm excited to connect with fellow tech enthusiasts and professionals. 
 
