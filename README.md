@@ -5,7 +5,7 @@
 
 # Welcome to My Tech Journey! 🚀
 
-Hello, tech enthusiasts and fellow explorers! Thank you for visiting my repository. I'm Janelle Almonte, a recent graduate with a strong drive to expand my knowledge and skills in the ever-evolving world of technology.
+Hello, tech enthusiasts and fellow explorers! Thank you for visiting my repository. I'm Janelle Almonte, a recent graduate of the Computer Systems Technician program. I have a strong drive to expand my knowledge and skills in the ever-evolving world of technology.
 
 🔍 Within this GitHub repository, you'll discover a carefully curated collection of my coding expeditions, projects, and experiments.
 
