@@ -23,8 +23,8 @@ See pictures of my pets to make you smile:
 
 Again if you'd like to connect or collaborate, please don't hesitate to reach out:
 
-- Ì≥ß Email: janelle.almonte@me.com
-- Ìºê LinkedIn: [www.linkedin.com/in/jalmonte0321](www.linkedin.com/in/jalmonte0321)
+-  Email: janelle.almonte@me.com
+-  LinkedIn: [www.linkedin.com/in/jalmonte0321](www.linkedin.com/in/jalmonte0321)
 
 I look forward to networking, sharing insights, and exploring opportunities in both the tech industry and beyond. Let's connect and make meaningful contributions together!
 
