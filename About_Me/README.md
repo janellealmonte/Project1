@@ -1,6 +1,6 @@
-bout Me
+# About Me
 
-Hello, I'm Janelle Almonte. With over a decade of experience in the travel industry, specializing in technical support and project management, I bring a strong foundation of skills and knowledge to the table.
+Hello, I'm Janelle Almonte. With over a decade of experience specializing in technical support and project management.
 
 ## Career Transition
 
@@ -12,15 +12,14 @@ My technical expertise spans various areas, including technical support, project
 
 ## Beyond Work
 
-Outside of my professional pursuits, I have a deep passion for travel and have explored 13 countries so far. I enjoy trying new foods and experiencing different cultures. In my leisure time, you'll find me watching crime shows, thrillers, and mind-bending series. I'm also an adventurer at heart and have even gone skydiving on a solo trip.
 
-## Animal Lover
+Outside of my professional pursuits, I have a deep passion for travel and have explored 13 countries so far. I enjoy trying new foods from different cuisines and experiencing different cultures. In my leisure time, you'll find me watching crime shows, thrillers, and mind-bending series. I'm a fur mom and share my home with a pet hamster. I also have 4 dogs, and 1 cat back in the Philippines and my dream is to bring them all to Canada.
 
-I'm an avid animal lover and share my home with a pet hamster, 5 dogs, and 1 cat.
+![Picture of my pets to make you smile](https://github.com/janellealmonte/TechVoyage/blob/dcb6b378696c7aa13af1eb34e14f71c9afad537d/About_Me/images/369041130_308821378599899_1505753270755922173_n.jpg)1~
 
 ## Get in Touch
 
-If you'd like to connect or collaborate, please don't hesitate to reach out:
+Again if you'd like to connect or collaborate, please don't hesitate to reach out:
 
 - Ì≥ß Email: janelle.almonte@me.com
 - Ìºê LinkedIn: [www.linkedin.com/in/jalmonte0321](www.linkedin.com/in/jalmonte0321)
