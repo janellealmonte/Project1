@@ -2,22 +2,58 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Janelle Almonte</title>
     <link rel="stylesheet" href="schoolproject.css">
-    <title>School Project</title>
+    <script src="https://kit.fontawesome.com/5d92b9432a.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <header>
-        <a href="index.html" class="back-button">Back</a>
-        <h1>School Project</h1>
-    </header>
+<div id="header">
     <div class="container">
-        <div class="media-item">
-            <!-- Replace 'YOUR_YOUTUBE_VIDEO_URL' with the actual YouTube video URL -->
-            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/764902260?h=f594d48a3b&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="New Recording - 10/28/2022, 6:47:37 AM"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-            <p class="media-description">Description of Video 1</p>
+        <nav>
+            <img src="images/logo.png" class="logo">
+            <ul id="sidemenu">
+                <li><a href="#header"><i class="fa-solid fa-house" onclick="goToHomePage()"></i></a>
+                </li>
+            </ul>
+        </nav>
+        <div class="header-text">
+            <p>School Projects</p>
         </div>
-        <!-- Add more media items here -->
     </div>
+</div>
+
+<div class="video-container">
+    <div class="video-box">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WiCkAjHpuRw?si=OCwspPmRoWteXMdm" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    <div class="video-box">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CmjosDq4go4?si=ic2fZClOQjLTYWUF" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    <div class="video-box">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/D6YXLBjnBNQ?si=hFbyYvIpZczRTfPy" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    <div class="video-box">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mxtAkWFwJjM?si=a2r34FhYPSvVy535" title="YouTube video player" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+
 </body>
 </html>
+
+<!---------functions--------->
+
+<script>
+    // Added a function to navigate back to the homepage
+    function goToHomePage() {
+        window.location.href = "index.html";
+    }
+</script>
