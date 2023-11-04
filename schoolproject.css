@@ -1,0 +1,42 @@
+/* Your existing styles for the website */
+& {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #000;
+    color: #fff;
+}
+
+/* ... (rest of your existing styles) ... */
+
+/* Additional CSS for grid layout */
+#media-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+}
+
+.media {
+    background-color: #262626;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.media video {
+    max-width: 100%;
+    height: auto;
+}
+
+.media p {
+    margin-top: 10px;
+    color: #fff;
+}
