@@ -8,7 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #080808;
+    background: #000;
     color: #fff;
 }
 #header{
@@ -49,7 +49,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #b54769;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -68,10 +68,11 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #ff004f;
+    color: #b54769;
 }
 /* ---------about---------- */
 #about{
+    background-color: #000;
     padding: 80px 0;
     color: #ababab;
 }
@@ -112,7 +113,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #ff004f;
+    background: #b54769;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -145,6 +146,7 @@ nav ul li a:hover::after{
 
 /* ---------services---------- */
 #services{
+    background-color: #000;
     padding:30px 0;
 }
 .services-list{
@@ -178,13 +180,14 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #ff004f;
+    background: #b54769;
     transform: translateY(-10px);
 
 }
 /* ---------portfolio---------- */
 #portfolio {
     padding: 50px 0;
+    background-color: #000;
 }
 
 .work-list {
@@ -210,7 +213,7 @@ nav ul li a:hover::after{
 .layer {
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
+    background: linear-gradient(rgba(0,0,0,0.6), #b54769);
     border-radius: 10px;
     position: absolute;
     left: 0;
