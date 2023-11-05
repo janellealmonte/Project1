@@ -78,7 +78,7 @@ nav ul li a{
 textarea {
     width: 600px;
     height: 250px;
-    background: #403d84; /* Slightly transparent white background for the textarea */
+    background: rgb(159, 85, 136); /* Slightly transparent white background for the textarea */
     color: #fff; /* Dark text color */
     font-size: 15px;
     border: 0; /* Light gray border */
@@ -118,7 +118,7 @@ button img{
 select{
     flex: 1;
     color: #fff;
-    background: #403d84;
+    background: rgb(159, 85, 136);
     height: 50px;
     padding: 0 20px;
     outline: 0;
