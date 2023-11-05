@@ -39,5 +39,20 @@
     </div>
 </div>
 
+<script>
+
+const apiKey = "1015f5eb6f76c5e53d1ea1de26c2287d";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=toronto";
+
+async function checkWeather(){
+    const response = await fetch(apiUrl + `&appid=${apiKey}`);
+    var data = await response.json();
+
+    console.log(data);
+}
+
+checkWeather();
+</script>
+
 </body>
 </html>
