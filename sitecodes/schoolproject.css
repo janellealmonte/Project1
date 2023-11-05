@@ -13,11 +13,7 @@ body{
 }
 #header{
     width: 100%;
-<<<<<<< HEAD
-    height: 40vh;
-=======
-    height: 40vh;
->>>>>>> 393daa39dafe942bfab64dcb026c933b63976201
+    height: 50vh;
     background-color: #000;
     background-size: cover;
     background-position: top;
