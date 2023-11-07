@@ -13,7 +13,7 @@ body{
 }
 #header{
     width: 100%;
-    height:20vh;
+    height: 30vh;
     background-color: #000;
     background-size: cover;
     background-position: top;
@@ -46,24 +46,23 @@ nav ul li a{
     position: relative;
 }
 .hero{
-    width: 400px;
+    width: 300px;
     padding: 35px 75px;
     position: absolute;
     top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #c6768f;
+    background: linear-gradient(80deg, #d778ae,#61548c);
     border-radius: 10px;
 }
 .hero p{
     font-weight: 600;
-    font-size: 15px;
-    margin-bottom: 8px;
-    
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 .hero input{
-    width: 100%;
-    height: 50px;
+    width: 94%;
+    height: 20px;
     border: 1px solid #494eea;
     outline: 0;
     padding: 10px;
@@ -82,12 +81,18 @@ nav ul li a{
     cursor: pointer;
     margin: 20px 0;
     font-weight: 500;
+    font-style: bold;
 }
 #imgBox{
     width: 200px;
     border-radius: 5px;
     max-height: 0;
     overflow: hidden;
+    transition: max-height 1s;
+    display: flex; 
+    justify-content: center; 
+    margin: 0 auto; 
+    text-align: center; 
 }
 #imgBox img{
     width: 100%;
@@ -97,4 +102,24 @@ nav ul li a{
     max-height: 300px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
+}
+.error{
+    animation: shake 0.1s linear 10;
+}
+@keyframes shake{
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(-2px);
+    }
+    50%{
+        transform: translateX(0);
+    }
+    75%{
+        transform: translateX(2px);
+    }
+    100%{
+        transform: translateX(0);
+    }
 }
