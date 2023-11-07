@@ -1,0 +1,72 @@
+&{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: #000;
+    color: #fff;
+}
+#header{
+    width: 100%;
+    height:20vh;
+    background-color: #000;
+    background-size: cover;
+    background-position: top;
+}
+.container{
+    padding:10px 10%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.logo{
+    width: 240px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+}
+.hero{
+    width: 400px;
+    padding: 35px 75px;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #b54769;
+    border-radius: 10px;
+}
+.hero p{
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 8px;
+    
+}
+.hero input{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #494eea;
+    outline: 0;
+    padding: 10px;
+    margin: 10px 0 20px;
+    border-radius: 5px;
+}
